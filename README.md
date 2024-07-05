@@ -11,7 +11,7 @@ Este projeto implementa uma solução de classificação multilabel e regressão
 ### Como executar o projeto
 
 1. No terminal, navegue até o diretório do projeto.
-2. Execute o script principal com o comando: `python lh_cd_gessicasilva.py`.
+2. Execute os codigos do notebook `LH_CD_GESSICASILVA.ipynb`.
 
 ### Sobre o código
 
